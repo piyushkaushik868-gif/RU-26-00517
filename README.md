@@ -1,7 +1,7 @@
 # Student Attendance Manager
 
 **PS No.:** 17
-**Language:** Python 3
+**Language:** Python 3.14
 **Concepts used:** Lists, Dictionaries, Functions, File Handling
 
 ## Problem Statement
